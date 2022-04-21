@@ -8,6 +8,10 @@ int main() {
 
     cout << "1231321321321";
     cout << "1231321321321";
+    
+    
+   cout << "Hello! World!\n"; 
+    cout << "哈囉! C++!\n";
 
     return 0; 
 }
